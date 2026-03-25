@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Fixes Shimmering Moonshot not applying damage bonus to omega special.",
     default  = true,
     dataMutation = true,
-    modpackModule = true,
+    modpack = "h2-modpack",
 }
 
 -- =============================================================================
